@@ -1,0 +1,19 @@
+{
+  "name": "email_check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandalayglobal/emailCheck.git"
+  },
+  "author": "Sandeep Bhaskaran K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vandalayglobal/emailCheck/issues"
+  },
+  "homepage": "https://github.com/vandalayglobal/emailCheck#readme"
+}
