@@ -1,5 +1,5 @@
 {
-  "name": "email_check",
+  "name": "@vandalayglobal/email_check",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
